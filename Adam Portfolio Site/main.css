@@ -122,8 +122,28 @@ nav a:hover{
 	
 }
 
+.trail{
+	background-image: url(images/trail.png);
+}
+
 .vans{
 	background-image: url(images/vans.png);
+}
+
+.guitar{
+	background-image: url(images/pgs.png);
+}
+
+.cotton{
+	background-image: url(images/cotton.png);
+}
+
+.local{
+	background-image: url(images/local.png);
+}
+
+.white{
+	background-image: url(images/white.png);
 }
 
 .work-image-large{
@@ -186,6 +206,39 @@ nav a:hover{
 .footer a :hover{
 	background: #e38576;
 }
+
+/* ---ABOUT--- */
+
+.about{
+	padding: 70px 0px 0px 0px;
+	text-align: center;
+	clear: both;
+}
+
+.me{
+	height: 450px;
+	width: 450px;
+	display: inline-block;
+}
+
+.bio{
+	display: inline-block;
+	font-family: proxima-nova, sans-serif;
+	text-align: left;
+	padding: 0px 0px 0px 40px;
+	vertical-align: top;
+}
+
+.bio h1{
+	font-size: 5em;
+}
+
+.bio h2{
+	padding: 20px 0px 0px 0px;
+	color: #e38576;
+}
+
+/* ---END ABOUT---*/
 
 @media(min-width:1300px{
 	.work-row{
