@@ -117,10 +117,14 @@ nav a:hover{
 	background-position: center center;
 }
 
+/*
+
 .work-hover:hover{
 	background-blend-mode: lighten; 
 	
 }
+
+*/
 
 .trail{
 	background-image: url(images/trail.png);
@@ -144,6 +148,10 @@ nav a:hover{
 
 .white{
 	background-image: url(images/white.png);
+}
+
+.white:hover{
+	background-image: url(images/whitehover.png) !important;
 }
 
 .work-image-large{
