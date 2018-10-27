@@ -1,9 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
 *{
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	border: 0px none;
 
 }
+
 #wrapper{
 	overflow: hidden;
 	background-color: #f0f0f0;
@@ -112,7 +128,6 @@ nav a:hover{
 	margin: 4px;
 	background-color: #f0f0f0;
 	display:inline-block;
-	background-image: url(images/cat.png);
 	background-size: cover;
 	background-position: center center;
 }
@@ -126,31 +141,31 @@ nav a:hover{
 */
 
 .trail{
-	background-image: url(images/trail.png);
+	background-image: url(../images/trail.png);
 }
 
 .vans{
-	background-image: url(images/vans.png);
+	background-image: url(../images/vans.png);
 }
 
 .guitar{
-	background-image: url(images/PGS.png);
+	background-image: url(../images/PGS.png);
 }
 
 .cotton{
-	background-image: url(images/cotton.png);
+	background-image: url(../images/cotton.png);
 }
 
 .local{
-	background-image: url(images/local.png);
+	background-image: url(../images/local.png);
 }
 
 .white{
-	background-image: url(images/white.png);
+	background-image: url(../images/white.png);
 }
 
 .white:hover{
-	background-image: url(images/whitehover.png) !important;
+	background-image: url(../images/whitehover.png) !important;
 }
 
 .work-image-large{
@@ -158,7 +173,6 @@ nav a:hover{
 	margin: 4px;
 	background-color: #fff;
 	display:inline-block;
-	background-image: url(images/cat.png);
 	background-size: cover;
 	background-position: center center;
 }
@@ -252,8 +266,6 @@ nav a:hover{
 		padding: 0px 50px;
 	}
 }
-
-
 
 @media(max-width:775px){
 	.hello h1{
