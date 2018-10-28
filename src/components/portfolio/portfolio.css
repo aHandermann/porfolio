@@ -18,20 +18,96 @@
 
 /* Start Trail Butter */
 
-.trail {
+.trail-1 {
   background-image: url(../../images/trail.png);
 }
 
 .trail-2 {
-  background-image: url(../../images/trail.png);
+  background-image: url(../../images/trailvec.png);
 }
 
 .trail-3 {
-  background-image: url(../../images/trail.png);
+  background-image: url(../../images/traillrg.png);
 }
 
 /* End Trail Butter */
 
 /* Start Vans */
 
+.vans-1 {
+  background-image: url(../../images/vans.png);
+}
+
+.vans-2 {
+  background-image: url(../../images/vanstag.png);
+}
+
+.vans-3 {
+  background-image: url(../../images/vanslrg.png);
+}
+
 /* End Vans */
+
+/* Start Pro Guitar Shop */
+
+.pgs-1 {
+  background-image: url(../../images/pgs.png);
+}
+
+.pgs-2 {
+  background-image: url(../../images/pgsbrand.png);
+}
+
+.pgs-3 {
+  background-image: url(../../images/pgslrg.png);
+}
+
+/* End Pro Guitar Shop */
+
+/* Start Cotton Craft */
+
+.cotton-1 {
+  background-image: url(../../images/cotton.png);
+}
+
+.cotton-2 {
+  background-image: url(../../images/cottonpocket.png);
+}
+
+.cotton-3 {
+  background-image: url(../../images/cottonlrg.png);
+}
+
+/* End Cotton Craft */
+
+/* Start Local */
+
+.local-1 {
+  background-image: url(../../images/local.png);
+}
+
+.local-2 {
+  background-image: url(../../images/localad.png);
+}
+
+.local-3 {
+  background-image: url(../../images/locallrg.png);
+}
+
+/* End Local */
+
+/* Start White */
+
+.white-1 {
+  background-image: url(../../images/white.png);
+}
+
+.white-2 {
+  background-image: url(../../images/whitepacket.png);
+}
+
+.white-3 {
+  background-image: url(../../images/whitelrg.png);
+}
+
+/* End White */

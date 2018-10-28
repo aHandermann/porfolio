@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
 import "../profolio.css";
+import "../../App";
 
 class TrialButter extends Component {
   render() {
@@ -22,7 +23,7 @@ class TrialButter extends Component {
           </p>
         </div>
         <div className="project">
-          <div className="project-image trail" />
+          <div className="project-image trail-1" />
           <div className="project-image trail-2" />
           <div className="project-image-large trail-3" />
         </div>
