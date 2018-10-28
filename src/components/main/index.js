@@ -16,7 +16,7 @@ class Main extends Component {
         </div>
         <div className="work">
           <div className="work-row">
-            <Link to="/portfolio">
+            <Link to="/portfolio/trailbutter">
               {" "}
               <div className="work-image work-hover trail" />{" "}
             </Link>

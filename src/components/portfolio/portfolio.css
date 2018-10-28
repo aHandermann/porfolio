@@ -1,0 +1,37 @@
+.project-image {
+  padding: 115px 230px;
+  margin: 4px;
+  background-color: #f0f0f0;
+  display: inline-block;
+  background-size: cover;
+  background-position: center center;
+}
+
+.project-image-large {
+  padding: 230px 464px;
+  margin: 4px;
+  background-color: #fff;
+  display: inline-block;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* Start Trail Butter */
+
+.trail {
+  background-image: url(../../images/trail.png);
+}
+
+.trail-2 {
+  background-image: url(../../images/trail.png);
+}
+
+.trail-3 {
+  background-image: url(../../images/trail.png);
+}
+
+/* End Trail Butter */
+
+/* Start Vans */
+
+/* End Vans */

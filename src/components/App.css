@@ -126,34 +126,53 @@ nav a:hover {
   display: inline-block;
   background-size: cover;
   background-position: center center;
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
 }
 
-/*
-
-.work-hover:hover{
-	background-blend-mode: lighten;
+.work-hover:hover {
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
 }
-
-*/
 
 .trail {
   background-image: url(../images/trail.png);
+}
+
+.trail:hover {
+  background-image: url(../images/trailhover.png);
 }
 
 .vans {
   background-image: url(../images/vans.png);
 }
 
+.vans:hover {
+  background-image: url(../images/vanshover.png);
+}
+
 .guitar {
   background-image: url(../images/PGS.png);
+}
+
+.guitar:hover {
+  background-image: url(../images/guitarhover.png);
 }
 
 .cotton {
   background-image: url(../images/cotton.png);
 }
 
+.cotton:hover {
+  background-image: url(../images/cottonhover.png);
+}
+
 .local {
   background-image: url(../images/local.png);
+}
+
+.local:hover {
+  background-image: url(../images/localhover.png);
 }
 
 .white {
@@ -215,10 +234,14 @@ nav a:hover {
   vertical-align: middle;
   padding: 15px;
   margin: 13px;
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -moz-transition: background-color 0.2s ease-in-out;
 }
 
 .icon:hover {
   background: #e38576;
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -moz-transition: background-color 0.2s ease-in-out;
 }
 
 /* ---ABOUT--- */
