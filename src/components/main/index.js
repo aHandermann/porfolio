@@ -20,27 +20,27 @@ class Main extends Component {
               {" "}
               <div className="work-image work-hover trail" />{" "}
             </Link>
-            <Link to="/portfolio">
+            <Link to="/portfolio/vans">
               {" "}
               <div className="work-image work-hover vans" />{" "}
             </Link>
           </div>
           <div className="work-row">
-            <Link to="/portfolio">
+            <Link to="/portfolio/guitar">
               {" "}
               <div className="work-image work-hover guitar" />{" "}
             </Link>
-            <Link to="/portfolio">
+            <Link to="/portfolio/cotton">
               {" "}
               <div className="work-image work-hover cotton" />{" "}
             </Link>
           </div>
           <div className="work-row">
-            <Link to="/portfolio">
+            <Link to="/portfolio/local">
               {" "}
               <div className="work-image work-hover local" />{" "}
             </Link>
-            <Link to="/portfolio">
+            <Link to="/portfolio/white">
               {" "}
               <div className="work-image work-hover white" />{" "}
             </Link>
@@ -50,8 +50,8 @@ class Main extends Component {
           <h1>LET'S CONNECT</h1>
           <p>
             {" "}
-            HAVE A PROJECT YOU WANT TO WORK ON, OR JUST WANT TO GRAB COFFEE?
-            FEEL FREE TO GET IN TOUCH.
+            Have a project you want to work on, or want to grab coffee? Fell
+            free to get in touch!
           </p>
           <h2>hello@damnhand.com</h2>
         </div>

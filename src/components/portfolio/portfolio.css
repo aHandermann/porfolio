@@ -111,3 +111,14 @@
 }
 
 /* End White */
+
+@media (max-width: 400px) {
+  .portinfo {
+    width: 250px;
+    font-size: 0.8em;
+  }
+
+  .project-image-large {
+    padding: 100px 150px;
+  }
+}
