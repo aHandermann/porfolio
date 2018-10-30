@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 import "./header.css";
 
 // Images
@@ -14,7 +14,7 @@ class Header extends Component {
         <nav className="mainnav">
           <ul>
             <li>
-              <Link className="worknav" to="/">
+              <Link className="worknav" to="/#work">
                 WORK
               </Link>
             </li>
@@ -27,7 +27,7 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <Link className="contactnav" to="/">
+              <Link className="contactnav" to="/#contact">
                 CONTACT
               </Link>
             </li>

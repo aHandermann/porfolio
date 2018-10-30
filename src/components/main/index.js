@@ -14,7 +14,7 @@ class Main extends Component {
             </h2>
           </div>
         </div>
-        <div className="work">
+        <div className="work" id="work">
           <div className="work-row">
             <Link to="/portfolio/trailbutter">
               {" "}
@@ -46,7 +46,7 @@ class Main extends Component {
             </Link>
           </div>
         </div>
-        <div className="contact">
+        <div className="contact" id="contact">
           <h1>LET'S CONNECT</h1>
           <p>
             {" "}
