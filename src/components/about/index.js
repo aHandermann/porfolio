@@ -7,7 +7,7 @@ class About extends Component {
     return (
       <Layout>
         <div className="about">
-          <img alt="dork" src={me} className="me" />
+          <img alt="Adam" src={me} className="me" />
           <div className="bio">
             <h1 className="bold">HI. I'M ADAM</h1>
             <p className="portinfo">

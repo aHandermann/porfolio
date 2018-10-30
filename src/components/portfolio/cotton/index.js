@@ -1,7 +1,12 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
+import { BrowserRouter, Route } from 'react-router';
+
 import "../profolio.css";
 import "../../App";
+
+<BrowserRouter></Route>
+   <Route path="/" component={CottonCraft}></Route></BrowserRouter>
 
 class CottonCraft extends Component {
   render() {

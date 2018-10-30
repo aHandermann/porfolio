@@ -307,10 +307,12 @@ nav a:hover {
   }
   nav a {
     border-right: 1px solid #b9b9b9;
-    padding: 5px 16px 5px 16px;
+    padding: 5px 30px 5px 30px;
     text-align: center;
     font-weight: 600;
     color: #3c3c3c;
+    left: 175px;
+    position: relative;
   }
 
   .worknav {
@@ -318,6 +320,13 @@ nav a:hover {
   }
   .contactnav {
     border-right: none;
+  }
+}
+@media (max-width: 400px) {
+  nav a {
+    padding: 5px 16px 5px 16px;
+    left: 20px;
+    position: relative;
   }
 }
 
@@ -352,6 +361,10 @@ nav a:hover {
   }
 
   /* ABOUT */
+
+  .about {
+    padding-top: 0px;
+  }
 
   .bio {
     padding: 0px;
