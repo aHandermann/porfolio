@@ -7,17 +7,18 @@ class ProGuitarShop extends Component {
     return (
       <Layout>
         <div className="hello">
-          <h1 className="bold guitarname">PRO GUITAR SHOP BRAND</h1>
+          <h1 className="bold">Pro Guitar Shop Branding</h1>
           <div className="sub">
-            <h2 className="subhead color">Brand Design - Tone Report Weekly</h2>
+            <h2 className="subhead color">
+              Brand Design - Tone Report Weekly
+            </h2>
           </div>
           <p className="portinfo">
-            Our parent company at Tone Report Weekley, Pro Guitar Shop had a
-            very dated brand. I set out to update the branding while still
-            pulling heritage from the original mark and owner of the shop. I
-            keep the black and gold colors and a "P" icon. I came up with a
-            solution that includes the letters PGS in the mark as well as
-            resembeling&nbsp;a&nbsp;guitar&nbsp;stock.
+            While working at The Great Society, I have the opportunity to work
+            with Trail Butter on refreashing their packaging. I wanted their
+            package to feel adventurous and tied to its outdoor origin, while
+            also appealing to their primary customer and selling location, Whole
+            Foods.
           </p>
         </div>
         <div className="project">

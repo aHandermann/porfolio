@@ -248,10 +248,6 @@ nav a:hover {
   -moz-transition: background-color 0.2s ease-in-out;
 }
 
-.guitarname {
-  line-height: 0.9em;
-}
-
 /* ---ABOUT--- */
 
 .about {
@@ -336,11 +332,11 @@ nav a:hover {
 
 /*  ----------END MOBILE TEST---------- */
 
-@media (min-width: 1000px) {
-  .homehello {
-    padding-top: 400px;
-    padding-bottom: 200px;
-  }
+@media (min-width: 1000px){
+    .homehello{
+      padding-top: 400px;
+      padding-bottom: 200px;
+    }
 }
 
 @media (max-width: 775px) {
