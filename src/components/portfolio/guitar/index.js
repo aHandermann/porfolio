@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
-import "../profolio.css";
-import "../../App";
+import "../portfolio.css";
 
 class ProGuitarShop extends Component {
   render() {
@@ -11,14 +10,14 @@ class ProGuitarShop extends Component {
           <h1 className="bold">Pro Guitar Shop Branding</h1>
           <div className="sub">
             <h2 className="subhead color">
-              Brand Design - Tone Report Weekley
+              Brand Design - Tone Report Weekly
             </h2>
           </div>
           <p className="portinfo">
-            While working at The Great Soceity, I have the oportunity to work
+            While working at The Great Society, I have the opportunity to work
             with Trail Butter on refreashing their packaging. I wanted their
-            package to feel adventourous and tie to it's outdoor origin, while
-            also apealing to their primary customer and selling location, Whole
+            package to feel adventurous and tied to its outdoor origin, while
+            also appealing to their primary customer and selling location, Whole
             Foods.
           </p>
         </div>

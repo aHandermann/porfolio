@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
-import "../profolio.css";
-import "../../App";
+import "../portfolio.css";
 
 class WhiteProject extends Component {
   render() {
@@ -17,7 +16,7 @@ class WhiteProject extends Component {
           <p className="portinfo">
             For my final portfolio at college, I wanted to create a limited
             edition package for a pomade called White. The concept I wanted to
-            go with was simple, make everything white. I embossing and light
+            go with was simple: make everything white. I embossing and light
             grey to define shapes and important information, and even took
             photography of people covered in white paint.
           </p>

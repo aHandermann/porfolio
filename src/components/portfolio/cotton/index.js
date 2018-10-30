@@ -1,12 +1,7 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
-import { BrowserRouter, Route } from 'react-router';
 
-import "../profolio.css";
-import "../../App";
-
-<BrowserRouter></Route>
-   <Route path="/" component={CottonCraft}></Route></BrowserRouter>
+import "../portfolio.css";
 
 class CottonCraft extends Component {
   render() {
@@ -20,10 +15,10 @@ class CottonCraft extends Component {
             </h2>
           </div>
           <p className="portinfo">
-            While working at The Great Soceity, I have the oportunity to work
+            While working at The Great Society, I have the opportunity to work
             with Trail Butter on refreashing their packaging. I wanted their
-            package to feel adventourous and tie to it's outdoor origin, while
-            also apealing to their primary customer and selling location, Whole
+            package to feel adventurous and tied to its outdoor origin, while
+            also appealing to their primary customer and selling location, Whole
             Foods.
           </p>
         </div>
