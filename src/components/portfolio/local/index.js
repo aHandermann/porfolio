@@ -7,18 +7,14 @@ class LocalApp extends Component {
     return (
       <Layout>
         <div className="hello">
-          <h1 className="bold">Local App</h1>
+          <h1 className="bold">LOCAL APP</h1>
           <div className="sub">
             <h2 className="subhead color">
               UX Design - The Modern College of Art and Design
             </h2>
           </div>
           <p className="portinfo">
-            While working at The Great Society, I have the opportunity to work
-            with Trail Butter on refreashing their packaging. I wanted their
-            package to feel adventurous and tied to its outdoor origin, while
-            also appealing to their primary customer and selling location, Whole
-            Foods.
+            While in college, I had an idea for an app to help people get more invovled in their local music scene. The app was called local, you could use to look up local shows near you that are going on that night, that week, or that month. You can even follow you favotire venues to make sure you don't miss any good shows. I created a logo and branding for the app, as well as designed various&nbsp;screens,&nbsp;and&nbsp;advertisments.  
           </p>
         </div>
         <div className="project">

@@ -332,6 +332,13 @@ nav a:hover {
 
 /*  ----------END MOBILE TEST---------- */
 
+@media (min-width: 1000px){
+    .homehello{
+      padding-top: 400px;
+      padding-bottom: 200px;
+    }
+}
+
 @media (max-width: 775px) {
   .hello h1 {
     line-height: 0.9 !important;

@@ -8,18 +8,14 @@ class CottonCraft extends Component {
     return (
       <Layout>
         <div className="hello">
-          <h1 className="bold">Cotton Craft</h1>
+          <h1 className="bold">COTTON CRAFT</h1>
           <div className="sub">
             <h2 className="subhead color">
               Brand Design - The Modern College of Art and Design
             </h2>
           </div>
           <p className="portinfo">
-            While working at The Great Society, I have the opportunity to work
-            with Trail Butter on refreashing their packaging. I wanted their
-            package to feel adventurous and tied to its outdoor origin, while
-            also appealing to their primary customer and selling location, Whole
-            Foods.
+            Cotton Craft was an idea for a passion project while in college. I love doing vecotr illustrations and branding, so I threw them together to make some awesome pocket tees. I created the branding, tags, shirts, patterns and the packaging to ship in. Also, to stand out in the mail, we shipped in a patterened poster tube.
           </p>
         </div>
         <div className="project">
