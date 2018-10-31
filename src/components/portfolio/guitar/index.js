@@ -7,11 +7,9 @@ class ProGuitarShop extends Component {
     return (
       <Layout>
         <div className="hello">
-          <h1 className="bold">Pro Guitar Shop Branding</h1>
+          <h1 className="bold guitarhello">Pro Guitar Shop Branding</h1>
           <div className="sub">
-            <h2 className="subhead color">
-              Brand Design - Tone Report Weekly
-            </h2>
+            <h2 className="subhead color">Brand Design - Tone Report Weekly</h2>
           </div>
           <p className="portinfo">
             While working at The Great Society, I have the opportunity to work

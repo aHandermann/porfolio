@@ -337,9 +337,9 @@ nav a:hover {
 
 /*  ----------END MOBILE TEST---------- */
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .homehello {
-    padding-top: 340px;
+    padding-top: 330px;
     padding-bottom: 200px;
   }
 }
@@ -350,9 +350,21 @@ nav a:hover {
     font-size: 6em;
   }
 
+  .homehello {
+    padding-bottom: 100px;
+  }
+
+  .work {
+    margin-top: 100px;
+  }
+
   .subhead {
     padding: 15px 30px 0px 30px;
     font-size: 1em;
+  }
+
+  .footer {
+    padding-top: 100px;
   }
 
   .work-image {
@@ -361,6 +373,10 @@ nav a:hover {
 
   .work-row {
     padding: 0px 30px;
+  }
+
+  .contact {
+    padding-top: 100px;
   }
 
   .contact h1 {
@@ -426,9 +442,5 @@ nav a:hover {
 
   .work-image-large {
     padding: 100px 150px;
-  }
-
-  .footer {
-    padding-top: 100px;
   }
 }
