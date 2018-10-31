@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
-
-import "../portfolio.css";
+import "../profolio.css";
+import "../../App";
 
 class CottonCraft extends Component {
   render() {
@@ -15,7 +15,11 @@ class CottonCraft extends Component {
             </h2>
           </div>
           <p className="portinfo">
-            Cotton Craft was an idea for a passion project while in college. I love doing vecotr illustrations and branding, so I threw them together to make some awesome pocket tees. I created the branding, tags, shirts, patterns and the packaging to ship in. Also, to stand out in the mail, we shipped in a patterened poster tube.
+            Cotton Craft was an idea for a passion project while in college. I
+            love doing vecotr illustrations and branding, so I threw them
+            together to make some awesome pocket tees. I created the branding,
+            tags, shirts, patterns and the packaging to ship in. Also, to stand
+            out in the mail, we shipped in a patterened poster tube.
           </p>
         </div>
         <div className="project">

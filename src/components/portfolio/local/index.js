@@ -14,7 +14,13 @@ class LocalApp extends Component {
             </h2>
           </div>
           <p className="portinfo">
-            While in college, I had an idea for an app to help people get more invovled in their local music scene. The app was called local, you could use to look up local shows near you that are going on that night, that week, or that month. You can even follow you favotire venues to make sure you don't miss any good shows. I created a logo and branding for the app, as well as designed various&nbsp;screens,&nbsp;and&nbsp;advertisments.  
+            While in college, I had an idea for an app to help people get more
+            invovled in their local music scene. The app was called local, you
+            could use to look up local shows near you that are going on that
+            night, that week, or that month. You can even follow you favotire
+            venues to make sure you don't miss any good shows. I created a logo
+            and branding for the app, as well as designed
+            various&nbsp;screens,&nbsp;and&nbsp;advertisments.
           </p>
         </div>
         <div className="project">
