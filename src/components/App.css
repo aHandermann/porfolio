@@ -77,6 +77,11 @@ nav a:hover {
   padding: 300px 0px 0px 0px;
 }
 
+.homehello {
+  padding-top: 400px;
+  padding-bottom: 200px;
+}
+
 .bold {
   font-size: 8em;
 }
@@ -332,11 +337,11 @@ nav a:hover {
 
 /*  ----------END MOBILE TEST---------- */
 
-@media (min-width: 1000px){
-    .homehello{
-      padding-top: 400px;
-      padding-bottom: 200px;
-    }
+@media (max-width: 1200px) {
+  .homehello {
+    padding-top: 340px;
+    padding-bottom: 200px;
+  }
 }
 
 @media (max-width: 775px) {
