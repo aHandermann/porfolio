@@ -74,11 +74,11 @@ nav a:hover {
 .hello {
   font-family: proxima-nova, sans-serif;
   text-align: center;
-  padding: 300px 0px 0px 0px;
+  padding: 200px 0px 0px 0px;
 }
 
 .homehello {
-  padding-top: 400px;
+  padding-top: 350px;
   padding-bottom: 200px;
 }
 
@@ -112,7 +112,7 @@ nav a:hover {
 
 .work {
   text-align: center;
-  margin: 300px 0px 50px 0px;
+  margin: 70px 0px 50px 0px;
 }
 
 .work a {
@@ -129,8 +129,8 @@ nav a:hover {
 }
 
 .work-image {
-  padding: 115px 230px;
-  margin: 4px;
+  padding: 150px 250px;
+  margin: -3px;
   background-color: #f0f0f0;
   display: inline-block;
   background-size: cover;
@@ -202,7 +202,7 @@ nav a:hover {
 }
 
 .contact {
-  padding: 200px 0px 0px 0px;
+  padding: 100px 0px 0px 0px;
   font-family: proxima-nova, sans-serif;
   text-align: center;
 }
@@ -220,12 +220,17 @@ nav a:hover {
 .contact h2 {
   padding: 20px 0px 0px 0px;
   color: #e38576;
+  text-decoration: none;
+}
+
+.helloemail {
+  text-decoration: none;
 }
 
 .footer {
   text-align: center;
   clear: both;
-  padding: 200px 0px 20px 0px;
+  padding: 100px 0px 20px 0px;
 }
 
 .footer a {
@@ -256,7 +261,7 @@ nav a:hover {
 /* ---ABOUT--- */
 
 .about {
-  padding: 70px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
   text-align: center;
   clear: both;
 }
@@ -339,7 +344,7 @@ nav a:hover {
 
 @media (max-width: 1400px) {
   .homehello {
-    padding-top: 330px;
+    padding-top: 275px;
     padding-bottom: 200px;
   }
 }
@@ -412,6 +417,10 @@ nav a:hover {
   .hello h1 {
     line-height: 1em !important;
     font-size: 5em;
+  }
+
+  .homehello {
+    padding-top: 300px;
   }
 
   .me {

@@ -18,8 +18,8 @@ class VansProject extends Component {
             retail campaign for Vans stores. The idea behind the campaign was to
             take inspiration from old surf posters and art, and market their
             popular shoe "The Authentic." I used a beachy color scheme with
-            simple, screen printed graphics. As well as creating a custome type
-            for the campaign.
+            simple, screen printed graphics. As well as creating custom type for
+            the campaign.
           </p>
         </div>
         <div className="project">

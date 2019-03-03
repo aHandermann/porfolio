@@ -53,7 +53,13 @@ class Main extends Component {
             Have a project you want to work on, or want to grab coffee? Fell
             free to get in touch!
           </p>
-          <h2>hello@damnhand.com</h2>
+          <a
+            className="helloemail"
+            href="mailto:hello@damnhand.com?Subject=Hello%20again"
+            target="_top"
+          >
+            <h2>hello@damnhand.com</h2>
+          </a>
         </div>
       </Layout>
     );

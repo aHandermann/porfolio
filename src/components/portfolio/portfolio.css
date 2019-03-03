@@ -9,7 +9,7 @@
 
 .project-image-large {
   padding: 230px 464px;
-  margin: 4px;
+  margin: 4px 50px 4px 50px;
   background-color: #fff;
   display: inline-block;
   background-size: cover;
@@ -112,6 +112,12 @@
 
 /* End White */
 
+@media (min-width: 1800px) {
+  .project-image-large {
+    margin: 4px 300px 4px 300px;
+  }
+}
+
 @media (max-width: 775px) {
   .project-image-large {
     padding: 115px 230px;
@@ -119,6 +125,9 @@
 
   .guitarhello {
     font-size: 4em;
+  }
+  .project-image-large {
+    margin: 4px 4px 4px 4px;
   }
 }
 

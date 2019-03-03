@@ -9,8 +9,10 @@ import pdf from "../../images/ahandermann_resume.pdf";
 class Header extends Component {
   render() {
     return (
-      <div className="header">
-        <img alt="DAMN HAND" className="logo" src={logo} />
+      <div className="header" id="header">
+        <Link to="/">
+          <img alt="DAMN HAND" className="logo" src={logo} />
+        </Link>
         <nav className="mainnav">
           <ul>
             <li>
