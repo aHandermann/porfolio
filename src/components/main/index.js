@@ -20,6 +20,17 @@ class Main extends Component {
               {" "}
               <div className="work-image work-hover trail" />{" "}
             </Link>
+
+            <Link to="/portfolio/poster">
+              {" "}
+              <div className="work-image work-hover poster" />{" "}
+            </Link>
+          </div>
+          <div className="work-row">
+            <Link to="/portfolio/musket">
+              {" "}
+              <div className="work-image work-hover musket" />{" "}
+            </Link>
             <Link to="/portfolio/vans">
               {" "}
               <div className="work-image work-hover vans" />{" "}

@@ -32,6 +32,38 @@
 
 /* End Trail Butter */
 
+/* Start Posters */
+
+.post-1 {
+  background-image: url(../../images/poster.png);
+}
+
+.post-2 {
+  background-image: url(../../images/posterclose.png);
+}
+
+.post-3 {
+  background-image: url(../../images/posterlrg.png);
+}
+
+/* End Posters */
+
+/* Start 12 Musketeers */
+
+.musket-1 {
+  background-image: url(../../images/12m.png);
+}
+
+.musket-2 {
+  background-image: url(../../images/12mclose.png);
+}
+
+.musket-3 {
+  background-image: url(../../images/12mlrg.png);
+}
+
+/* End 12 Musketeers */
+
 /* Start Vans */
 
 .vans-1 {

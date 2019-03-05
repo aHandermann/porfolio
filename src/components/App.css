@@ -152,6 +152,22 @@ nav a:hover {
   background-image: url(../images/trailhover.png);
 }
 
+.poster {
+  background-image: url(../images/poster.png);
+}
+
+.poster:hover {
+  background-image: url(../images/posterhover.png);
+}
+
+.musket {
+  background-image: url(../images/12m.png);
+}
+
+.musket:hover {
+  background-image: url(../images/12mhover.png);
+}
+
 .vans {
   background-image: url(../images/vans.png);
 }
