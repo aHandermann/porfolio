@@ -14,7 +14,7 @@ class About extends Component {
               I'm a designer, skater, and musician living in Portland, Oregon.
               I'm passionate about making things look cool, and am always
               learning new skills. I've worked with brand such as Nike, Trail
-              Butter, Pair of Theives, and Boss.{" "}
+              Butter, Pair of Thieves, and Boss.{" "}
             </p>
             <h2>hello@damnhand.com</h2>
           </div>

@@ -14,9 +14,9 @@ class ProGuitarShop extends Component {
           <p className="portinfo">
             While working at Nike, my team (Nike Valiant Labs) wanted to add
             something to make our space pop. I designed a series of posters
-            based on our teams values. Ranging from illustation to typography.
+            based on our team values. Ranging from illustration to typography.
             After finishing the designs we got them printed I used wheat paste
-            to apply the posers to wall.
+            to apply the posers to the wall.
           </p>
         </div>
         <div className="project">

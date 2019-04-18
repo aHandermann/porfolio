@@ -15,9 +15,9 @@ class CottonCraft extends Component {
           <p className="portinfo">
             12 Musketeers is a yearly calendar run by alumni of the Modern
             College of Art and Design. The theme changes every year and this
-            year the theme was CMYKliche. I was asked to created a illustration
-            for the month of October. Inspired by cliche halloween flash tattoo
-            sheets, and horror imagery, I created various halloween graphics and
+            year the theme was CMYKliche. I was asked to create an illustration
+            for the month of October. Inspired by cliche Halloween flash tattoo
+            sheets, and horror imagery, I created various Halloween graphics and
             put them together in tattoo flash style.
           </p>
         </div>

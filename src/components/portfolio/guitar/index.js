@@ -14,10 +14,10 @@ class ProGuitarShop extends Component {
           <p className="portinfo">
             Our parent company at Tone Report Weekley, Pro Guitar Shop had a
             very dated brand. I set out to update the branding while still
-            pulling heritage from the original mark and owner of the shop. I
+            pulling heritage from the original mark and the owner of the shop. I
             keep the black and gold colors and a "P" icon. I came up with a
             solution that includes the letters PGS in the mark as well as
-            resembeling&nbsp;a&nbsp;guitar&nbsp;stock.
+            resembling&nbsp;a&nbsp;guitar&nbsp;stock.
           </p>
         </div>
         <div className="project">

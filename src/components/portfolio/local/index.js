@@ -15,12 +15,12 @@ class LocalApp extends Component {
           </div>
           <p className="portinfo">
             While in college, I had an idea for an app to help people get more
-            invovled in their local music scene. The app was called local, you
+            involved in their local music scene. The app was called Local, you
             could use to look up local shows near you that are going on that
-            night, that week, or that month. You can even follow you favorite
+            night, that week, or that month. You can even follow your favorite
             venues to make sure you don't miss any good shows. I created a logo
             and branding for the app, as well as designed
-            various&nbsp;screens,&nbsp;and&nbsp;advertisments.
+            various&nbsp;screens,&nbsp;and&nbsp;advertisements.
           </p>
         </div>
         <div className="project">

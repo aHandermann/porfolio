@@ -19,7 +19,7 @@ class CottonCraft extends Component {
             love doing vector illustrations and branding, so I threw them
             together to make some awesome pocket tees. I created the branding,
             tags, shirts, patterns and the packaging to ship in. Also, to stand
-            out in the mail, we shipped in a patterened poster tube.
+            out in the mail, we shipped in a patterned poster tube.
           </p>
         </div>
         <div className="project">

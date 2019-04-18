@@ -1,23 +1,24 @@
 import React, { Component } from "react";
 import Layout from "../../common/layout";
 import "../portfolio.css";
+import "../../App";
 
 class TrialButter extends Component {
   render() {
     return (
       <Layout>
         <div className="hello">
-          <h1 className="bold">TRAIL BUTTER</h1>
+          <h1 className="bold">Trail Butter</h1>
           <div className="sub">
             <h2 className="subhead color">
-              Package Design - The Great Society
+              Package Design - The Great Soceity
             </h2>
           </div>
           <p className="portinfo">
-            While working at The Great Society, I have the opportunity to work
-            with Trail Butter on refreashing their packaging. I wanted their
-            package to feel adventurous and tied to its outdoor origin, while
-            also appealing to their primary customer and selling location, Whole
+            While working at The Great Soceity, I have the oportunity to work
+            with Trail Butter on refreshing their packaging. I wanted their
+            package to feel adventourous and tie to it's outdoor origin, while
+            also apealing to their primary customer and selling location, Whole
             Foods.
           </p>
         </div>
